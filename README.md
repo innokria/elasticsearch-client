@@ -1,4 +1,5 @@
 # elasticsearch-client
+# make call to aws elastic search apis through nodejs 
 Use the elasticsearch-js client with Amazon ES
 
 - npm install --save http-aws-es aws-sdk elasticsearch
